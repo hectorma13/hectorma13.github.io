@@ -17,9 +17,17 @@ export const languages: Record<string, Language> = {
     name: "Bootstrap",
     iconName: "bootstrap",
   },
+  c: {
+    name: "c",
+    iconName: "c",
+  },
   cloudflare: {
     name: "Cloudflare",
     iconName: "cloudflare",
+  },
+  cplusplus: {
+    name: "cplusplus",
+    iconName: "cplusplus",
   },
   html: {
     name: "HTML 5",
