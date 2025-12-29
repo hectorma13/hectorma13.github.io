@@ -18,7 +18,7 @@ export const languages: Record<string, Language> = {
     iconName: "bootstrap",
   },
   c: {
-    name: "c",
+    name: "C",
     iconName: "c",
   },
   cloudflare: {
@@ -26,7 +26,7 @@ export const languages: Record<string, Language> = {
     iconName: "cloudflare",
   },
   cplusplus: {
-    name: "cplusplus",
+    name: "C++",
     iconName: "cplusplus",
   },
   html: {
