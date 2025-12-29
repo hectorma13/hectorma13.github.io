@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/MarkdownPostLayout.astro
 title: The Complete Markdown Guide
-author: Fernando López
+author: Héctor Martín
 description: "A comprehensive guide to Markdown syntax, covering everything from basic formatting to advanced features. Learn how to create headers, lists, emphasis, and more with this essential markup language for content creation."
 image:
   url: "/images/posts/markdown.webp"
@@ -130,6 +130,13 @@ Here's a sentence with a footnote. [^1]
 ```
 
 ### Highlight
+
+```markdown
+==highlighted text==
+```
+
+### Equations
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 ```markdown
 ==highlighted text==
