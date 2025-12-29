@@ -5,9 +5,9 @@
   "profileTitle": "Computer Engineering Student",
   "profileName": "Héctor Martín",
   "github": "https://github.com/hectorma13",
-  "githubText": "Do you like this blog's design?",
+  "githubText": "Look at my code, it's available!",
   "portfolioImage": "/images/portfolio.webp",
-  "email": "hello@efeele.dev",
+  "email": "alu0101714059@ull.edu.es",
   "linkedin": "https://www.linkedin.com/in/efeele/",
   "instagram": "https://www.instagram.com/efeele.dev/",
   "youtube": "https://www.youtube.com/@efeeledev",
@@ -23,15 +23,13 @@
   "linkedinIconName": "linkedin",
   "emailIconName": "envelope",
   "hobbies": [
-    "Writing",
-    "Camping",
-    "Coffee",
-    "Music",
+    "Music Production",
+    "Reading",
     "Movies",
-    "Board Games"
+    "Enjoy nature"
   ],
-  "pageTitle": "NeonMint by | Fernando Lopez | EFEELE",
-  "pageDescription": "Is a modern, minimalist template crafted for developers and digital creatives.",
+  "pageTitle": "Héctor Martín | CS Student",
+  "pageDescription": "Welcome to Héctor Martín's portfolio!",
   "OGImage": {
     "url": "/images/imagedefault.webp",
     "alt": "Screenshot of a web portfolio with a modern and dark design. Featuring Fernando López, a Frontend Developer with 8 years of experience, highlighting his passion for development and technology. Includes contact sections, projects, and a technology stack with technologies like HTML5, JavaScript, TypeScript, Angular, Node.js, CSS, Tailwind, and more."
